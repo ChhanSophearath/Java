@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SS15_S2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SS15_S2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
